@@ -6,8 +6,9 @@ import Menu from "@/components/menu";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Wisdeck Oil Company Limited",
+  title: "Edparknia Oil Company Limited",
   description: "best residual fuel company in Ghana",
+  logo: "../public/logo.jpeg",
 };
 
 export default function RootLayout({
