@@ -52,7 +52,7 @@ const Footer = () => {
       </div>
       <hr className="mt-8" />
       <div className="mt-8 text-center">
-        © 2024 CleanEnergyCafe. All rights reserved.
+        © 2024 Edparknia Oil Company. All rights reserved.
       </div>
     </div>
   );
