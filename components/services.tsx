@@ -61,7 +61,7 @@ function services() {
           >
             {" "}
             <p className="pt-5">
-              At Wisdeck Oil Company, we understand the importance of a
+              At Edparknia Oil Company, we understand the importance of a
               consistent and dependable supply of residual fuels for your
               operations. We pride ourselves on being a trusted provider of
               high-quality RFO, heavy fuel oils (HFO) that power industries,
@@ -154,9 +154,9 @@ function services() {
             FUEL TESTING AND ANALYSIS
           </h1>
           <p className="pt-5">
-            At Wisdeck, we prioritize fuel quality to ensure optimal performance
-            and regulatory compliance. Our laboratory is equipped with
-            cutting-edge testing facilities that enable us to conduct
+            At Edparknia, we prioritize fuel quality to ensure optimal
+            performance and regulatory compliance. Our laboratory is equipped
+            with cutting-edge testing facilities that enable us to conduct
             comprehensive fuel testing and analysis. We rigorously examine
             critical parameters such as viscosity, flashpoint, sulfur content,
             and more, to guarantee that our residual fuels (RFO) meet the

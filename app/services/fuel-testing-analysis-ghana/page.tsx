@@ -138,7 +138,7 @@ function fueltest() {
             you to operate with peace of mind.
           </p>
           <p className="pt-5">
-            As a leading residual fuel company, Wisdeck is dedicated to
+            As a leading residual fuel company, Edparknia is dedicated to
             providing reliable supply, customized solutions, and stringent
             quality control to meet your unique energy requirements. With our
             expertise and commitment to excellence, we strive to be your trusted
