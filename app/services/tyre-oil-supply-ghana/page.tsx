@@ -96,11 +96,11 @@ function tyreoil() {
             TYRE OIL SUPPLY
           </h1>
           <p className="pt-5">
-            We also supply Tyre Oil to companies based on their request. This
-            oil is used as industrial fuel to substitute furnace oil. The Tyre
-            Oil is mainly used as fuel in heavy industries such as ceramic
-            factories, steel factories, heavy oil power plants and boiler
-            factories.
+            We also cater to companies requests by supplying Tyre Oil, an
+            industrial fuel that serves as a substitute for furnace oil.
+            Primarily utilized in heavy industries, Tyre Oil finds application
+            in ceramic factories, steel plants, heavy oil power plants, and
+            boiler factories.
           </p>
         </motion.div>
         <motion.div
@@ -124,18 +124,19 @@ function tyreoil() {
             FUEL TESTING AND ANALYSIS
           </h1>
           <p className="pt-5">
-            At Edparknia, we prioritize fuel quality to ensure optimal
-            performance and regulatory compliance. Our laboratory is equipped
-            with cutting-edge testing facilities that enable us to conduct
-            comprehensive fuel testing and analysis. We rigorously examine
-            critical parameters such as viscosity, flashpoint, sulfur content,
-            and more, to guarantee that our residual fuels (RFO) meet the
-            highest industry standards. By partnering with us, you gain access
-            to our thorough quality control procedures, which instill confidence
-            and trust in the fuels we supply. Rest assured that our fuels
-            undergo meticulous testing to deliver consistent quality, empowering
-            you to operate with peace of mind.r consistent quality, empowering
-            you to operate with peace of mind.
+            At Edparknia, our top priority is ensuring the quality of our fuels
+            for optimal performance and compliance with regulations. Equipped
+            with state-of-the-art testing facilities, our laboratory conducts
+            comprehensive testing and analysis of our residual fuels (RFO). We
+            rigorously examine key parameters such as viscosity, flashpoint,
+            sulfur content, and more, ensuring that our fuels meet the highest
+            industry standards.
+            <br />
+            By choosing us as your partner, you benefit from our meticulous
+            quality control procedures, instilling confidence and trust in the
+            fuels we supply. Rest assured, our fuels undergo thorough testing to
+            consistently deliver top-notch quality, providing you with the
+            assurance to operate with peace of mind.
           </p>
           <p className="pt-5">
             As a leading residual fuel company, Edparknia is dedicated to

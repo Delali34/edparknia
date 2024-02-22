@@ -83,28 +83,28 @@ function Who() {
         className="max-w-2xl mx-auto mt-8 text-center text-sm md:text-xl"
       >
         <p>
-          We are passionate about delivering seamless logistics solutions that
-          drive efficiency, reliability, and growth. With three of industry
-          experience, we have established ourselves as a leading provider in the
-          field.
+          We are passionate about providing streamlined logistics solutions that
+          enhance efficiency, reliability, and foster growth, we have emerged as
+          a prominent industry leader with three decades of experience in the
+          field
         </p>
       </motion.div>
       <div className="flex flex-col lg:flex-row gap-10 justify-center items-center pt-20 pb-5">
         <ServiceCard
           title="RESIDUAL FUEL SUPPLY"
-          description="At Wisdeck, we understand the importance of a consistent and dependable supply of residual fuels for your operations. We pride ourselves on being a trusted provider of high-quality heavy fuel oils (HFO) that power industries, marine vessels."
+          description="At Edparknia, we recognize the significance of ensuring a reliable and consistent source of residual fuels for your operational needs. We take pride in being a reliable supplier of top-notch heavy fuel oils (HFO) that fuel various industries and marine vessels"
           imageUrl={first}
           link="/services/residual-fuel-supply-ghana"
         />
         <ServiceCard
           title="TYRE OIL SUPPLY"
-          description="We also supply Tyre Oil to companies based on their request. This oil is used as industrial fuel to substitute furnace oil. The Tyre Oil is mainly used as fuel in heavy industries such as ceramic factories, steel factories, heavy oil power plants and boiler factories."
+          description="We also supply Tyre Oil to companies upon request, serving as an industrial fuel substitute for furnace oil. It is predominantly used in heavy industries like ceramic factories, steel plants, heavy oil power plants, and boiler factories."
           imageUrl={second}
           link="/services/tyre-oil-supply-ghana"
         />
         <ServiceCard
           title="FUEL TESTING AND ANALYSIS"
-          description="At Wisdeck, we prioritize fuel quality to ensure optimal performance and regulatory compliance. Our laboratory is equipped with cutting-edge testing facilities that enable us to conduct comprehensive fuel testing and analysis services."
+          description="At Edparknia, we uphold fuel quality to ensure optimal performance and regulatory compliance. Our laboratory is equipped with the latest  testing facilities that enable us to conduct comprehensive fuel testing and analysis services."
           imageUrl={third}
           link="/services/fuel-testing-analysis-ghana"
         />
